@@ -36,6 +36,12 @@ Ce projet complet vous guide à travers la compréhension, l'exploitation et l'e
                     └─────────────────┘
 ```
 
+## 📊 Dashboard
+
+![Dashboard de monitoring énergétique](asset/dashboard.jpg)
+
+*Interface de visualisation des données du compteur E450 avec graphiques temps réel et métriques énergétiques.*
+
 ## 📚 Structure du livre
 
 ### 🧭 Partie I — Introduction & Fondations
@@ -262,12 +268,6 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 - **Gurux** pour la bibliothèque DLMS open-source
 - **Home Assistant** pour l'écosystème IoT
 - **InfluxDB/Grafana** pour les outils de visualisation
-
-## 📊 Dashboard
-
-![Dashboard de monitoring énergétique](asset/dashboard.jpg)
-
-*Interface de visualisation des données du compteur E450 avec graphiques temps réel et métriques énergétiques.*
 
 ---
 
