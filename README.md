@@ -263,12 +263,11 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 - **Home Assistant** pour l'écosystème IoT
 - **InfluxDB/Grafana** pour les outils de visualisation
 
-## 📞 Support
+## 📊 Dashboard
 
-- 📧 **Email** : support@compteur-e450.dev
-- 💬 **Discord** : [Rejoindre la communauté](https://discord.gg/compteur-e450)
-- 📖 **Documentation** : [docs.compteur-e450.dev](https://docs.compteur-e450.dev)
-- 🐛 **Issues** : [GitHub Issues](https://github.com/votre-repo/compteur-e450/issues)
+![Dashboard de monitoring énergétique](asset/dashboard.jpg)
+
+*Interface de visualisation des données du compteur E450 avec graphiques temps réel et métriques énergétiques.*
 
 ---
 
